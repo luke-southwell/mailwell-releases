@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://mailwell.app/assets/icon-256.png" width="128" height="128" alt="Mailwell app icon">
+  <picture>
+    <img src="https://mailwell.app/assets/icon-256.png" width="128" height="128" alt="Mailwell app icon">
+  </picture>
 </p>
 
 <h1 align="center">Mailwell</h1>

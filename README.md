@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://mailwell.app/assets/icon-256.png" width="128" height="128" alt="Mailwell app icon">
+    <img src="https://mailwell.app/assets/icon-256.png?v=2" width="128" height="128" alt="Mailwell app icon">
   </picture>
 </p>
 
@@ -19,8 +19,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://mailwell.app/assets/window-dark-1280.webp">
-    <img src="https://mailwell.app/assets/window-light-1280.webp" alt="The Mailwell window: a sidebar with Favorites and accounts, the inbox list, and a conversation open on the right." width="900">
+    <source media="(prefers-color-scheme: dark)" srcset="https://mailwell.app/assets/window-dark-1280.webp?v=1140">
+    <img src="https://mailwell.app/assets/window-light-1280.webp?v=1140" alt="The Mailwell window: a sidebar with Favorites and accounts, the inbox list, and a conversation open on the right." width="900">
   </picture>
 </p>
 
@@ -37,7 +37,8 @@ Gmail, iCloud, Microsoft 365 and Outlook.com, Fastmail, Kagi Mail, FranklyMail, 
 ## What it does
 
 - **One window for every account**, with a unified inbox. Or use **profiles** to keep Work and Personal apart and switch with ⌃1, ⌃2.
-- **Inbox tabs** for Primary, Social, Promos and Updates on every provider, plus your own splits for the senders or folders you care about.
+- **Inbox tabs** for Primary, Social, Promos and Updates on every provider, plus your own splits for the senders or folders you care about. Sorted wrong? **Move Sender to Tab** puts that sender in the right one from then on.
+- **A light, quiet list**, grouped by date, with Archive, Snooze, Flag and Trash right on the row when you hover.
 - **Search on your Mac**, with people suggestions as you type.
 - **Quick Forwards.** Turn an address you forward to often, like receipts to Ramp or flights to Flighty, into a one-click button.
 - **A shortcut for everything**, with Mailwell's keys or Gmail's. Undo with ⌘Z for archives, moves and sends.
